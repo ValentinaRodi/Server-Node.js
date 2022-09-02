@@ -24,7 +24,5 @@
 # Стэк:
 
 • Node.js
-
 • Nodemon
-
 • Fs
